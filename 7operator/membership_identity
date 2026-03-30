@@ -1,0 +1,8 @@
+#Membership Operators:
+fruits=["apple","banana","cherry"]
+print("banana" in fruits)
+
+#Identity Operators:
+x = 10
+y = 10
+print(x is y)  # Output: True
